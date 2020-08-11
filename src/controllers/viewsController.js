@@ -1,5 +1,5 @@
 const axios = require('axios');
-const API_KEY = 'f44c85b5e85a032137ec79cf32b53ac4';
+const API_KEY = ''; // Put your API_KEY here!
 const Weather = require('../model/Weather');
 
 exports.renderHomePage = (req, res) => {
